@@ -1,5 +1,3 @@
-![Tank Battle Screenshot](Zrzut%20ekranu%202026-06-29%20104047.png)
-
 #  Tank Battle
 
 A 2D tank battle game written in Python using the **Pygame** library. Fight against enemy tanks, survive as long as possible, and beat your high score!
